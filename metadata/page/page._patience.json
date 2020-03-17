@@ -1,0 +1,27 @@
+{
+  "_id": "page._patience",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._patience--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page._patience--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page._patience--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No but that's life",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you have the patience to wait for the timeout warning?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/patience"
+}
